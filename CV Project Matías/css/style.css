@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.img-avatar {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
